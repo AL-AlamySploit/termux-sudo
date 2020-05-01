@@ -25,6 +25,12 @@ SUDO WILL NOT WORK WITHOUT SU
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 ```
+**Power Root**
+```
+sudo whoami
+sudo su
+```
+
 
 **Features**
 
